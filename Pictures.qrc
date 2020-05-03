@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>patient pictures/model 1 back 1.png</file>
+        <file>patient pictures/model 1 back 2.png</file>
+        <file>patient pictures/model 1 back 3.png</file>
+        <file>patient pictures/model 1 back 4.png</file>
+        <file>patient pictures/model 1 front 1.png</file>
+        <file>patient pictures/model 1 front 2.png</file>
+        <file>patient pictures/model 1 front 3.png</file>
+        <file>patient pictures/model 1 front 4.png</file>
+        <file>patient pictures/model 1 left 1.png</file>
+        <file>patient pictures/model 1 left 2.png</file>
+        <file>patient pictures/model 1 left 3.png</file>
+        <file>patient pictures/model 1 left 4.png</file>
+        <file>patient pictures/model 1 right 1.png</file>
+        <file>patient pictures/model 1 right 2.png</file>
+        <file>patient pictures/model 1 right 3.png</file>
+        <file>patient pictures/model 1 right 4.png</file>
+        <file>doctor pictures/doctor back 1.png</file>
+        <file>doctor pictures/doctor back 2.png</file>
+        <file>doctor pictures/doctor back 3.png</file>
+        <file>doctor pictures/doctor back 4.png</file>
+        <file>doctor pictures/doctor front 1.png</file>
+        <file>doctor pictures/doctor front 2.png</file>
+        <file>doctor pictures/doctor front 3.png</file>
+        <file>doctor pictures/doctor front 4.png</file>
+        <file>doctor pictures/doctor left 1.png</file>
+        <file>doctor pictures/doctor left 2.png</file>
+        <file>doctor pictures/doctor left 3.png</file>
+        <file>doctor pictures/doctor left 4.png</file>
+        <file>doctor pictures/doctor right 1.png</file>
+        <file>doctor pictures/doctor right 2.png</file>
+        <file>doctor pictures/doctor right 3.png</file>
+        <file>doctor pictures/doctor right 4.png</file>
+        <file>Pictures/main_game_bg.png</file>
+        <file>Pictures/titlescreen_bg.png</file>
+        <file>Pictures/main_game_bg-min.png</file>
+        <file>Pictures/titlescreen_bg-min.png</file>
+        <file>Pictures/face_mask.png</file>
+    </qresource>
+</RCC>
